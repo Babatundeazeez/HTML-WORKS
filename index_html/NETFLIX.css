@@ -1,0 +1,59 @@
+.container {
+    background-image: url(https://laptopstalk.com/wp-content/uploads/2020/04/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d-1024x576.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    /* background: linear-gradient(black, white, yellow, black); */
+    
+    
+   
+}
+.container1 {
+     background-color: rgba(100, 100, 120, 0.6); 
+     /* background-size: cover; */
+     height: 100vh;
+     
+    
+}
+ 
+
+
+
+.AA {
+    color: red;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+.AB {
+    margin-left: 1000px;
+    padding: 10px;    background-color:rgb(229,9,20);
+    border-radius: 3px;
+    width: 80px;
+    color: white;
+    font-size: 15px;
+}
+.AC {
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.AC1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.AC2 {
+    padding: 20px;
+    margin-left: 380px;
+    width: 350px;
+    font-size: 16px;
+}
+.AC3 {
+    padding: 20px;
+    width: 200px;
+    font-size: 16px;
+    color: white;
+    background-color: rgb(229,9,20);
+}
